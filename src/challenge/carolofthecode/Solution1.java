@@ -12,7 +12,7 @@ public class Solution1 {
             if(A[i].charAt(3) != leftJoint){
                 if(A[i].charAt(1) == leftJoint){
                     leftBased += 2;
-                    leftJoint = A[i].charAt(1);
+                    leftJoint = A[i].charAt(3);
                 }else{
                     leftBased += 1;
                     leftJoint = A[i].charAt(0) == leftJoint ? A[i].charAt(2) : A[i].charAt(0);

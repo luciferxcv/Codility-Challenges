@@ -1,4 +1,4 @@
-package lesson.timecomplexity;
+package lessons.lesson3;
 
 public class PermMissingElem {
     public int solution(int[] A) {

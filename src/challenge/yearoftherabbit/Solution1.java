@@ -1,7 +1,7 @@
 package challenge.yearoftherabbit;
 
 public class Solution1 {
-    public int Solution(int[] A, int[] B){
+    public int solution(int[] A, int[] B){
         int len = A.length, rotateTimes = 0;
         for(int i = 0; i < len; i++){
             if(rotateTimes == len) return -1;

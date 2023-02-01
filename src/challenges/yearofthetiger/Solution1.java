@@ -1,4 +1,4 @@
-package challenge.yearofthetiger;
+package challenges.yearofthetiger;
 
 import java.util.*;
 

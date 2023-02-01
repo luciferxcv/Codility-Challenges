@@ -1,4 +1,4 @@
-package challenge.yearoftherabbit;
+package challenges.yearoftherabbit;
 
 public class Solution1 {
     public int solution(int[] A, int[] B){

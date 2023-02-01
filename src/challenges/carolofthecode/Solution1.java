@@ -1,4 +1,4 @@
-package challenge.carolofthecode;
+package challenges.carolofthecode;
 
 //TODO: unfinished
 public class Solution1 {

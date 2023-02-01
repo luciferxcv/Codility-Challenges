@@ -1,4 +1,4 @@
-package challenge.thematrix2021;
+package challenges.thematrix2021;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

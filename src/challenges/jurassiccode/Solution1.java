@@ -1,4 +1,4 @@
-package challenge.jurassiccode;
+package challenges.jurassiccode;
 
 import java.util.ArrayList;
 import java.util.HashMap;
